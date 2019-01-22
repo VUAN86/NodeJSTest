@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "request": "*",
+    "xlsx-to-json": "^0.3.0",
+    "async": "*",
+    "lodash": "*",
+    "fs": "*",
+    "machinepack-zip": "*"
+  }
+}
